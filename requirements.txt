@@ -1,0 +1,10 @@
+numpy
+pandas
+ipython
+matplotlib
+seaborn
+tqdm
+transformers
+scikit-learn
+statsmodels
+underthesea
